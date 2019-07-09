@@ -9,7 +9,10 @@ public class Block
 	public int index;
 	public String hash;
 	public String phash;
-	public int data;
+	public int data; 
+	/* data can be of datatype
+	But for simplicity purposes it is kept as int 
+	Feel free to expriment*/ 
 	public Block(int index,String phash,int data)
 	{
 		this.index=index;
@@ -19,6 +22,7 @@ public class Block
 	}
 	public String calculateHash()
 	{
+		/*this part ould be switched with any other ecoding algorithm*/
 		String hashtext=new String();
 		String h=index+phash+(data/23);
 		try
