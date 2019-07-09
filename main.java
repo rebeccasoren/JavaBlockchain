@@ -1,5 +1,5 @@
 import BlockExp.Blockchain;
-#this is only a sample
+//this is only a sample//
 
 class Main
 {
