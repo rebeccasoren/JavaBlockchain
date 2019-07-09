@@ -1,11 +1,9 @@
-##Blockchain##
+# Blockchain using Java
 
  An under-progress Blockchain Implementation using Java
 
- To run, Driver Program
+ **To run __Driver Program__**
 
-**1**
- Compile Block.java and Blockchain.java using "javac -d . Block.java Blockchain.java"
+__Step 1:__ Compile Block.java and Blockchain.java using "javac -d . Block.java Blockchain.java"
 
-**2**
- Compile and run driver program
+__Step 2:__ Compile and run driver program.
