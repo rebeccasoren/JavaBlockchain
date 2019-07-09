@@ -7,3 +7,6 @@
 __Step 1:__ Compile Block.java and Blockchain.java using "javac -d . Block.java Blockchain.java"
 
 __Step 2:__ Compile and run driver program.
+
+
+> This blockchain was encoded using SHA-256 algorithm. You can look up the algorithm [ here ](https://www.baeldung.com/sha-256-hashing-java). Feel free to experiment with your own encryption algorthms
