@@ -1,7 +1,7 @@
 # Blockchain using Java
 An under-progress Blockchain Implementation using Java.
  
-##Usage
+## Usage
 Compile Block.java and Blockchain.java 
 ```
 javac -d . Block.java Blockchain.java
